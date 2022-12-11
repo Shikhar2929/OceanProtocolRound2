@@ -1,4 +1,4 @@
-# OceanProtocolRound2
+# Ocean Protocol Round 2
 
 Our strategy for OceanProtocol involved testing various methods. 
 
